@@ -64,40 +64,46 @@
   },
   "syntax": {
     "comment": {
-      "color": "#9893a5",
+      "color": "#797593",
       "italic": true
     },
     "keyword": "#286983",
     "self": "#286983",
-    "operator": "#286983",
-    "punctuation": "#797593",
+    "operator": "#56949f",
+    "punctuation": "#575279",
     "paren": "#575279",
     "squareBracket": "#575279",
-    "angleBracket": "#9893a5",
+    "angleBracket": "#575279",
     "string": "#ea9d34",
     "regexp": "#ea9d34",
-    "escape": "#286983",
-    "number": "#d7827e",
-    "bool": "#d7827e",
-    "null": "#d7827e",
+    "escape": "#d7827e",
+    "number": "#ea9d34",
+    "bool": "#286983",
+    "null": "#286983",
     "atom": "#d7827e",
     "variableName": "#575279",
-    "function(variableName)": "#d7827e",
-    "standard(variableName)": {
-      "color": "#b4637a",
+    "function(variableName)": {
+      "color": "#d7827e",
       "italic": true
     },
-    "typeName": "#56949f",
-    "className": "#56949f",
-    "namespace": "#56949f",
-    "tagName": "#56949f",
-    "propertyName": "#56949f",
-    "attributeName": {
+    "standard(variableName)": {
       "color": "#907aa9",
       "italic": true
     },
-    "heading": {
+    "typeName": {
       "color": "#56949f",
+      "italic": true
+    },
+    "className": {
+      "color": "#56949f",
+      "italic": true
+    },
+    "namespace": "#56949f",
+    "tagName": "#56949f",
+    "propertyName": "#575279",
+    "attributeName": "#907aa9",
+    "heading": {
+      "color": "#b4637a",
       "bold": true
     },
     "strong": {
@@ -108,6 +114,21 @@
     },
     "invalid": "#b4637a",
     "inserted": "#56949f",
-    "deleted": "#b4637a"
+    "deleted": "#b4637a",
+    "constant(variableName)": "#ea9d34",
+    "derefOperator": "#575279",
+    "annotation": {
+      "color": "#907aa9",
+      "italic": true
+    },
+    "function(propertyName)": {
+      "color": "#d7827e",
+      "italic": true
+    },
+    "labelName": "#575279",
+    "link": {
+      "color": "#907aa9",
+      "italic": true
+    }
   }
 }
