@@ -2,6 +2,7 @@
   "id": "rose-pine-dawn",
   "name": "Rosé Pine Dawn",
   "scheme": "light",
+  "pair": "rose-pine",
   "app": {
     "background": "#faf4ed",
     "foreground": "#575279",

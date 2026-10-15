@@ -2,6 +2,7 @@
   "id": "rose-pine-moon",
   "name": "Rosé Pine Moon",
   "scheme": "dark",
+  "pair": "rose-pine-dawn",
   "app": {
     "background": "#232136",
     "foreground": "#e0def4",
