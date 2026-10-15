@@ -40,6 +40,13 @@ Then paste the absolute path of the clone into **Settings → Appearance → Imp
 | Rosé Pine Moon | `rose-pine-moon` | dark |
 | Rosé Pine Dawn | `rose-pine-dawn` | light |
 
+## Syntax highlighting
+
+Each variant also carries a `syntax` section, which `lich native` uses to color
+code in its diff and file views. It is ported scope by scope from the official
+[rose-pine/vscode](https://github.com/rose-pine/vscode) theme, so keywords are
+pine, strings gold, types and tags foam, and comments muted italic.
+
 ## Status tones
 
 `tone-pass` and `tone-wait` are what lich 0.53.0 reads for "passed" and "waiting
