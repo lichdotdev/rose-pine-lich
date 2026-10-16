@@ -129,6 +129,11 @@
     "link": {
       "color": "#907aa9",
       "italic": true
-    }
+    },
+    "definition(local(variableName))": {
+      "color": "#907aa9",
+      "italic": true
+    },
+    "standard(typeName)": "#286983"
   }
 }
